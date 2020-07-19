@@ -1,0 +1,42 @@
+body {
+      background: #000000;
+      margin-left: 200px;
+      margin-right: 200px;
+      margin-top: 60px;
+    }
+
+header {
+       margin-top: 30px;
+       }
+
+
+h1 {
+     color: red;
+     font-family: 'Montserrat', sans-serif;
+   }
+
+h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+   }
+
+p {
+    color: white;
+    font-size: 18px;
+    font-family: 'EB Garamond', serif;
+  }
+  footer {
+    margin-bottom: 30px;
+}
+
+
+.img_padrao {
+            margin-bottom: 20px;
+            width: 300px;
+
+}
+
+.contatos {
+        width: 30px;
+    
+    }
